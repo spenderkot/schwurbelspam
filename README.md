@@ -10,10 +10,19 @@ Needed:
 
 Installation:
 - go to git folder
+- open terminal
 - **npm i puppeteer**
 - one spam message:
 - **node spam.js**
 - over 9000 spam messages
+- **chmod +x spam.sh**
 - **./spam.sh**
 - ???
 - PROFIT
+
+You will encounter errors while executing sometimes. But it does what it should do.
+
+Big shoutout to Martin, you should get proper education on setting up something like this (and probably on a lot of other stuff too).
+
+Best regards,
+Spenderkot
